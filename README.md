@@ -7,6 +7,8 @@ I have created a SQL server that contains the database WIDGET_DEPARTMENT. This D
 
 In this project you will also, find the main datbase and the types it used but also the scripts and queries. I was unsure on how to do some of the tasks so ihave created queries and scripts to allow it to work.
 
+With one of the questions being add a employee I decided to add myself to the table as a test.
+
 With the build and run of this i belive you should be able to move the database into SSMS and it should open. I will upload screenshots and other evidence incase i did not upload or create it correctly. It is my first time using GitHub so I apologise if this is a mess and my first time trying to send a database on here so again im sorry for what a mess this might be.
 
 Thank you for taking the time to read this.
